@@ -8,6 +8,15 @@ The architecture is something like this, where the last two layers of ResNeXt mo
 
 ![Model Architecture](model_arch.png)
 
+## Usage
+Just upload any file and let the code do its work!
+![Step 1](demo/step%201.png)
+![Step 2](demo/step%202.png)
+![Step 3](demo/step%203.1.png)
+![Step 3 but real video](demo/step%203.2.png)
+
+
+
 ## Guidelines
 To setup the project to run on your system, use [Poetry](https://python-poetry.org/docs/) to install the required libraries. 
 ```
